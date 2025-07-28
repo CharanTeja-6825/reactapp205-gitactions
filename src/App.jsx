@@ -1,6 +1,7 @@
 import './App.css';
 
 function App() {
+  // react deployment
   return (
     <div className="container">
       <h1>Welcome to My React Project - S205</h1>
